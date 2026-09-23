@@ -1,0 +1,1 @@
+import{l as n,s as c,c as d,f as p,a as l}from"./index.js";import{I as i,s as $}from"./Icon.js";function u(a,s){const t=n(s,["children","$$slots","$$events","$$legacy"]);i(a,c({name:"x"},()=>t,{iconNode:[["path",{d:"M18 6 6 18"}],["path",{d:"m6 6 12 12"}]],children:(e,f)=>{var o=d(),r=p(o);$(r,s,"default",{}),l(e,o)},$$slots:{default:!0}}))}export{u as X};
