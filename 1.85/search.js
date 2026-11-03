@@ -1,0 +1,1 @@
+import{l as c,s as n,c as l,f as d,a as i}from"./index.js";import{I as p,s as $}from"./Icon.js";function u(e,s){const o=c(s,["children","$$slots","$$events","$$legacy"]);p(e,n({name:"search"},()=>o,{iconNode:[["circle",{cx:"11",cy:"11",r:"8"}],["path",{d:"m21 21-4.3-4.3"}]],children:(r,f)=>{var a=l(),t=d(a);$(t,s,"default",{}),i(r,a)},$$slots:{default:!0}}))}export{u as S};
